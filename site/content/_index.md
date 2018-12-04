@@ -1,7 +1,7 @@
 ---
-title: '  '
+title: ' '
 subtitle: ' '
-image: /img/home-jumbotron.jpg
+image: /img/mahti-kaikki.jpg
 blurb:
   heading: Mahti Miehet
   text: >-
