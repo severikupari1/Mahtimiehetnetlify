@@ -1,7 +1,7 @@
 ---
 title: ' '
 subtitle: ' '
-image: /img/mahti-kaikki.jpg
+image: /img/mahti-joukkuekuva_byjuhis.png
 blurb:
   heading: Mahti Miehet
   text: >-
