@@ -1,7 +1,7 @@
 ---
 title: ' '
 subtitle: ' '
-image: /img/mahti-kaikki.jpg
+image: /img/serveri.jpg
 blurb:
   heading: Mahti Miehet
   text: >-
